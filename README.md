@@ -1,7 +1,9 @@
 # Scala Studies
 
----
 Repository with coding assignments, personal notes and insights from Scala Studies.
+
+<br>
+
 
 ## Courses
 
@@ -10,7 +12,6 @@ Repository with coding assignments, personal notes and insights from Scala Studi
 
 <br>
 
----
 
 ## Books
 

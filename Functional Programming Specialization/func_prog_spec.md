@@ -23,3 +23,7 @@ Specialization course offered by _École Polytechnique Fédérale de Lausanne_ o
 
 ---
 ### Functions & Evaluation
+
+In Scala there are two types of evaluation, known as *call-by-name* and *call-by-value*.
+* *call-by-value* -
+* *call-by-name*  - 

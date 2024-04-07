@@ -3,7 +3,6 @@
 Specialization course offered by _École Polytechnique Fédérale de Lausanne_ on Coursera, with the objective of learning to write elegant functional code in Scala. The Specialization is divided into 5 courses and the details for each one can be found on the course description [here](https://www.coursera.org/specializations/scala).
 
 
-
 # Summary
 
 ---
@@ -22,6 +21,7 @@ Specialization course offered by _École Polytechnique Fédérale de Lausanne_ o
 # Functional Programming Principles in Scala
 
 ---
+
 ## Functions & Evaluation
 
 ### Elements of Programming
@@ -58,3 +58,4 @@ lazy val example = 2      // evaluated once when needed
 def square(x: Double)     // call by value
 def square(x: => Double)  // call by name
 ```
+

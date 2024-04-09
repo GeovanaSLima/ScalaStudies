@@ -58,4 +58,3 @@ lazy val example = 2      // evaluated once when needed
 def square(x: Double)     // call by value
 def square(x: => Double)  // call by name
 ```
-

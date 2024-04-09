@@ -50,7 +50,6 @@ __Call-by-Name__
 
 <br>
 
-
 ``` scala
 def example = 2           // evaluated when called
 val example = 2           // evaluated immediately

@@ -13,6 +13,7 @@ Repository with coding assignments, personal notes and insights from Scala Studi
 ---
 
 
+
 ## Books
 
 * Scala by Example
